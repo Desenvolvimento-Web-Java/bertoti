@@ -45,8 +45,8 @@
     <br>
 
 <div align="center">
-    <img src = "../IHC/imagens/desktop siga.png">
-    <img src = "../IHC/imagens/mobile siga.png">
+    <img src = "../IHC/imagens/desktopSiga.PNG">
+    <img src = "../IHC/imagens/mobileSiga.PNG">
   </div>
 
 > **Observações:** O sistema academico aparenta dificuldades do usuário por não facilitar na leitura de forma confortável e didática para o aluno. Utiliza exageradamente de informações na tela e com textos demasiadamente pequenos, que poderiam estar melhor organizados em um layout que comportaria como tal. Não há a presença de padrões, não há familiaridade do usuário com as funcionalidades disponíveis.
