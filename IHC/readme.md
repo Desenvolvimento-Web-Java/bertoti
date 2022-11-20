@@ -4,19 +4,24 @@
 ## Exemplos de acertos ✔️
 
 <details>
-   <summary><b>1. Visibilidade do status do sistema</b></summary>
+   <summary><b>1.3 Adaptable</b></summary>
     <br>
-    O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos
+    O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos para que o usuário tenha uma visibilidade do status do sistema.
 
   <div align="center">
-    <img alt="Captura da tela do youtube mostrando a playlist" src="https://user-images.githubusercontent.com/69374340/174390708-81097346-6edd-4465-9ec8-9fa9024b8d17.png">
+    ![Youtube](https://user-images.githubusercontent.com/80925387/202885021-de575f7c-f950-472c-9413-77921fb0524e.png)
   </div>
+  <br>
+  O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos para que o usuário tenha uma visibilidade do status do sistema.
+
+  <div align="center">
+    ![Google](https://user-images.githubusercontent.com/80925387/202885160-0eeb8dcd-93ea-49bc-acc0-ef52b07ec4b9.png)
 </details>
 
 <details>
-   <summary><b>3. Controle e liberdade para o usuário</b></summary>
+   <summary><b>2.4 Navigable</b></summary>
     <br>
-    O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, mas em caso de acionar alguma ação por engano, deve haver um modo de desfazer (sair de uma janela indesejada ou retornar a um ponto anterior). Um exemplo é a ação de “desfazer” do Google quando a ação é exclusão de um e-mail.
+    O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, mas em caso de acionar alguma ação por engano, deve haver um modo de desfazer (sair de uma janela indesejada ou retornar a um ponto anterior). Um exemplo é a ação de “desfazer” do Google quando a ação é exclusão de um e-mail. Controle e liberdade para o usuário
 
   <div align="center">
     <img alt="Captura da tela do aviso que permite o usuário desfazer a esclusão de um email no Gmail" src="https://user-images.githubusercontent.com/69374340/174390768-69c3d030-04cb-4148-a292-b4146723795d.png">
@@ -27,14 +32,10 @@
    <summary><b>5. Prevenções de erros</b></summary>
     <br>
     Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, um exemplo disso é a busca do Google, que enquanto estamos digitando na barra de pesquisa ele apresenta algumas sugestões mas também corrigindo erros de ortografia caso tenhamos pesquisado algo errado.
-
-  <div align="center">
-
-|                                                                 Realizando uma busca no Google                                                                 |                                                                                         Resultado da busca com erro de ortográfica                                                                                          |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![Captura de tela da funcionalidade de busca do Google](https://user-images.githubusercontent.com/69374340/174390776-748984f4-284e-45eb-b9ab-763c6857c3f3.png) | ![Captura de tela da funcionalidade de sugestão do Google ao fazer uma pesquisa com termos errados ortograficamente](https://user-images.githubusercontent.com/69374340/174390777-a6f9339e-904c-47c1-a406-b2b48a12b482.png) |
-
-</div>
+    
+  <div align="center">
+    ![Google](https://user-images.githubusercontent.com/80925387/202885160-0eeb8dcd-93ea-49bc-acc0-ef52b07ec4b9.png)
+  </div>
 </details>
 
 ---
