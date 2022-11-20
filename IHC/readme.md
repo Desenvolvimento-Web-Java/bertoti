@@ -41,76 +41,28 @@
 ## Exemplos de erros ❌
 
 <details>
-   <summary><b>Exemplo 1</b></summary>
+   <summary><b>3.1 Readable</b></summary>
     <br>
 
 <div align="center">
-    <img alt="Captura de tela de site com muitas cores, elementos piscando, rodando, entre outros exageros" src="https://user-images.githubusercontent.com/69374340/174390775-91cc70bf-b092-4775-9cef-5f90b992cc9c.png">
+    <img src = "../IHC/imagens/desktop siga.png">
+    <img src = "../IHC/imagens/mobile siga.png">
   </div>
 
-> **Observações:** muitas cores misturadas, não colaborando para uma harmonia visual; texto ilegível por conta do baixo contraste entre o background e a cor do texto, além de não utilizar uma fonte simples e de fácil legibilidade; elementos piscando e se mexendo em todos os cantos da tela, podendo representar certo risco de convulsão
+> **Observações:** O sistema academico aparenta dificuldades do usuário por não facilitar na leitura de forma confortável e didática para o aluno. Utiliza exageradamente de informações na tela e com textos demasiadamente pequenos, que poderiam estar melhor organizados em um layout que comportaria como tal. Não há a presença de padrões, não há familiaridade do usuário com as funcionalidades disponíveis.
 
 </details>
 
 <details>
-   <summary><b>Exemplo 2</b></summary>
+   <summary><b>2.3.1 - Three Flashes or Below Threshold Level A</b></summary>
     <br>
 
 <div align="center">
-    <img alt="Captura de tela de site com muita informação, sem pistas de localização ao ações ao usuário, etc" src="https://user-images.githubusercontent.com/69374340/174390774-2dbc1b97-8dc0-47e5-afed-190e902a84a9.png">
+    <img src = "../IHC/imagens/colorido.png">
   </div>
 
-> **Observações:** pode causar confusão ao usuário por não facilitar a identificação de sua localização no site nem as ações permitidas claramente; não é minimalista, pelo contrário, utiliza exageradamente de informações e elementos na tela, causando cansaço mental ao interagir com o site e não estabelecendo harmonia visual; não há a presença de padrões, não há familiaridade do usuário com as funcionalidades disponíveis
+> **Observações:** O site se mostra com muitas cores misturadas, não colaborando para uma harmonia visual do usuário; o texto é ilegível por conta do baixo contraste entre o background e a cor do texto, além de não utilizar uma fonte simples e de fácil legibilidade; elementos piscando e se mexendo em todos os cantos da tela, podendo apresentar riscos de convulsões e confusão mental em alguns usuários.
 
 </details>
 
 ---
-
-## Aplicação dos conceitos de IHC no API
-
-A partir de várias discussões com o professor Giuliano Bertoti, foi possível observar a aplicação de diversas heurísticas de Nielsen mas também conceitos do WCAG. Abaixo estão listadas algumas dessas observações:
-
-<details>
-   <summary><b>1. Visibilidade do status do sistema</b></summary>
-    <br>
-................
-
-<div align="center">
-   <img alt="">
-  </div>
-
-</details>
-
-<details>
-   <summary><b>3 Controle e liberdade para o usuário</b></summary>
-    <br>
-   .....................
-
-<div align="center">
-| <img alt=""> | <img alt="" src=""> |
-
-</div>
-
-</details>
-
-<details>
-   <summary><b>4. Consistência e padronização & 8. Estética e degign minimalista</b></summary>
-    <br>
-    
-
-<div align="center">
-   <img alt="">
-  </div>
-
-</details>
-
-<details>
-   <summary><b>5. Prevenção de erros</b></summary>
-    <br>
-    
-
-<div align="center">
-    <img alt="">
-  </div>
-
-</details>
