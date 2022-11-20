@@ -1,4 +1,3 @@
-
 # Heurísticas de Nielsen e WCAG
 
 ## Exemplos de acertos ✔️
@@ -8,34 +7,33 @@
     <br>
     O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos para que o usuário tenha uma visibilidade do status do sistema.
 
-  <div align="center">
-    ![Youtube](https://user-images.githubusercontent.com/80925387/202885021-de575f7c-f950-472c-9413-77921fb0524e.png)
+<div align="center">
+<img src = "./images/youtube.png">
   </div>
-  <br>
-  O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos para que o usuário tenha uma visibilidade do status do sistema.
 
-  <div align="center">
-    ![Google](https://user-images.githubusercontent.com/80925387/202885160-0eeb8dcd-93ea-49bc-acc0-ef52b07ec4b9.png)
 </details>
 
 <details>
    <summary><b>2.4 Navigable</b></summary>
     <br>
-    O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, mas em caso de acionar alguma ação por engano, deve haver um modo de desfazer (sair de uma janela indesejada ou retornar a um ponto anterior). Um exemplo é a ação de “desfazer” do Google quando a ação é exclusão de um e-mail. Controle e liberdade para o usuário
+    O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, como no caso do Sistema de Aprendizagem da RocketSeat. O usuário aluno poder nevegar em sua home, ir para cursos que está em desenvolvimento, assistir a vídeos com conteúdos voltados para o aprendizado, e também, emitir certificados após a conclusão de seu curso. Essa heurística visa a navegabilidade fácil, rápida e intuitiva por parte do usuário para encontrar o que precisam.
 
-  <div align="center">
-    <img alt="Captura da tela do aviso que permite o usuário desfazer a esclusão de um email no Gmail" src="https://user-images.githubusercontent.com/69374340/174390768-69c3d030-04cb-4148-a292-b4146723795d.png">
+<div align="center">
+  <img src = "./images/rocketseat.png"> 
   </div>
+
 </details>
 
 <details>
-   <summary><b>5. Prevenções de erros</b></summary>
+   <summary><b>4.1 Compatible</b></summary>
     <br>
-    Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, um exemplo disso é a busca do Google, que enquanto estamos digitando na barra de pesquisa ele apresenta algumas sugestões mas também corrigindo erros de ortografia caso tenhamos pesquisado algo errado.
+    Um dos maiores exemplos dessa heurística é o próprio site do Google, onde a inteção principal é realizar uma pesquisa e, portanto, o foco da página vai unicamente para a propria barra de pesquisa. Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, que, enquanto estamos digitando na barra de pesquisa, ele apresenta algumas sugestões e também corrigindo erros de ortografia caso tenhamos pesquisado algo errado e sugerindo algo que seja mais coerente ao que digitamos. Acrescentando também para a versão Mobile, onde tem a possibilidade de falar no alto falante o que ele precisa pesquisar quando não consegue digitar. Isso é muito válido para idosos com dificuldades de entendimento e analfabetismo e também para pessoas portadoras de necessidades especiais.
     
   <div align="center">
-    ![Google](https://user-images.githubusercontent.com/80925387/202885160-0eeb8dcd-93ea-49bc-acc0-ef52b07ec4b9.png)
+   <img src = "./images/desktop.png">
+   <img src = "./images/mobile.jpg">  
   </div>
+
 </details>
 
 ---
@@ -46,7 +44,7 @@
    <summary><b>Exemplo 1</b></summary>
     <br>
 
-  <div align="center">
+<div align="center">
     <img alt="Captura de tela de site com muitas cores, elementos piscando, rodando, entre outros exageros" src="https://user-images.githubusercontent.com/69374340/174390775-91cc70bf-b092-4775-9cef-5f90b992cc9c.png">
   </div>
 
@@ -58,7 +56,7 @@
    <summary><b>Exemplo 2</b></summary>
     <br>
 
-  <div align="center">
+<div align="center">
     <img alt="Captura de tela de site com muita informação, sem pistas de localização ao ações ao usuário, etc" src="https://user-images.githubusercontent.com/69374340/174390774-2dbc1b97-8dc0-47e5-afed-190e902a84a9.png">
   </div>
 
@@ -77,9 +75,10 @@ A partir de várias discussões com o professor Giuliano Bertoti, foi possível 
     <br>
 ................
 
-  <div align="center">
+<div align="center">
    <img alt="">
   </div>
+
 </details>
 
 <details>
@@ -99,9 +98,10 @@ A partir de várias discussões com o professor Giuliano Bertoti, foi possível 
     <br>
     
 
-  <div align="center">
+<div align="center">
    <img alt="">
   </div>
+
 </details>
 
 <details>
@@ -109,7 +109,8 @@ A partir de várias discussões com o professor Giuliano Bertoti, foi possível 
     <br>
     
 
-  <div align="center">
+<div align="center">
     <img alt="">
   </div>
+
 </details>
