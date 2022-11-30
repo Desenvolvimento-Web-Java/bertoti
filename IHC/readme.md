@@ -3,59 +3,60 @@
 ## Exemplos de acertos ✔️
 
 <details>
-   <summary><b>1.3 Adaptable</b></summary>
-    <br>
-    O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos para que o usuário tenha uma visibilidade do status do sistema.
-
-<div align="center">
-<img src= "../IHC/imagens/youtube.png">
-  </div>
-
-</details>
-
-<details>
-   <summary><b>2.4 Navigable</b></summary>
-    <br>
-    O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, como no caso do Sistema de Aprendizagem da RocketSeat. O usuário aluno poder nevegar em sua home, ir para cursos que está em desenvolvimento, assistir a vídeos com conteúdos voltados para o aprendizado, e também, emitir certificados após a conclusão de seu curso. Essa heurística visa a navegabilidade fácil, rápida e intuitiva por parte do usuário para encontrar o que precisam.
-
-<div align="center">
-  <img src = "../IHC/imagens/rocketseat.png"> 
-  </div>
-
-</details>
-
-<details>
-   <summary><b>4.1 Compatible</b></summary>
-    <br>
-    Um dos maiores exemplos dessa heurística é o próprio site do Google, onde a inteção principal é realizar uma pesquisa e, portanto, o foco da página vai unicamente para a propria barra de pesquisa. Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, que, enquanto estamos digitando na barra de pesquisa, ele apresenta algumas sugestões e também corrigindo erros de ortografia caso tenhamos pesquisado algo errado e sugerindo algo que seja mais coerente ao que digitamos. Acrescentando também para a versão Mobile, onde tem a possibilidade de falar no alto falante o que ele precisa pesquisar quando não consegue digitar. Isso é muito válido para idosos com dificuldades de entendimento e analfabetismo e também para pessoas portadoras de necessidades especiais.
-    
-  <div align="center">
-   <img src = "../IHC/imagens/desktop.png">
-   <img src = "../IHC/imagens/mobile.jpg">  
-  </div>
-
-</details>
-
-<details>
-  <sumary><b>3.2.3 Consistent Navigation</b></sumary>
+    <summary><b>1.3 Adaptable</b></summary>
     <br>
-    O CodePen é um ambiente de desenvolvimento e uma rede social ao mesmo tempo, isso quer dizer que além de poder seguir pessoas, dar like em códigos e deixar comentários. Ele funciona como um editor de código online e ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar trechos de código, chamados de "canetas", e testá-los no mesmo que estão desenvolvendo.
-  <div align="center">
-    <img src = "../IHC/imagens/code.png>
-  </div>
+    <ul>
+        <li>O sistema deve mostrar o que está acontecendo em tempo real pro usuário, um exemplo disso é a interface das playlists Youtube, que ficam ao lado direito do vídeo, mostrando qual vídeo da lista estamos assistindo, qual os próximos e quais já foram assistidos para que o usuário tenha uma visibilidade do status do sistema.</li>
+    </ul>
+    <div align="center">
+        <img src= "../IHC/imagens/youtube.png">
+    </div>
 </details>
-
 
 <details>
-  <sumary><b>1. Perceivable</b></sumary>
+    <summary><b>2.4 Navigable</b></summary>
     <br>
-    O Twitter é uma rede social e um serviço de microblog, que permite aos usuários enviar e receber atualizações pessoais de outros contatos, por meio do website do serviços de troca de informações para receber na íntegra onde o usuario consegue perceber, de forma imediata, o que está sendo compreendido nas noticias e assuntos mais comentados do momento. Evidencia para o usuario as possíveis buscas que ele pode realizar em um determinado assunto ou perfil de outro usuario que quer encontrar.
-  <div align="center">
-  <img src = "../IHC/imagens/twitter.png>
-  </div>
+    <ul>
+        <li>O sistema deve permitir que o usuário tenha liberdade para realizar ações que ele deseja, como no caso do Sistema de Aprendizagem da RocketSeat. O usuário aluno poder nevegar em sua home, ir para cursos que está em desenvolvimento, assistir a vídeos com conteúdos voltados para o aprendizado, e também, emitir certificados após a conclusão de seu curso. Essa heurística visa a navegabilidade fácil, rápida e intuitiva por parte do usuário para encontrar o que precisam.</li>
+    </ul>
+    <div align="center">
+        <img src = "../IHC/imagens/rocketseat.png">
+    </div>
 </details>
 
----
+<details>
+    <summary><b>4.1 Compatible</b></summary>
+    <br>
+    <ul>
+        <li>Um dos maiores exemplos dessa heurística é o próprio site do Google, onde a inteção principal é realizar uma pesquisa e, portanto, o foco da página vai unicamente para a propria barra de pesquisa. Melhor que deixar o usuário resolver um erro é evitar que ele cometa erros, que, enquanto estamos digitando na barra de pesquisa, ele apresenta algumas sugestões e também corrigindo erros de ortografia caso tenhamos pesquisado algo errado e sugerindo algo que seja mais coerente ao que digitamos. Acrescentando também para a versão Mobile, onde tem a possibilidade de falar no alto falante o que ele precisa pesquisar quando não consegue digitar. Isso é muito válido para idosos com dificuldades de entendimento e analfabetismo e também para pessoas portadoras de necessidades especiais.</li>
+    </ul>
+    <div align="center">
+        <img src = "../IHC/imagens/desktop.png">
+        <img src = "../IHC/imagens/mobile.jpg">
+    </div>
+</details>
+
+<details>
+    <summary><b>3.2.3 Consistent Navigation</b></summary>
+    <br>
+    <ul>
+        <li>O CodePen é um ambiente de desenvolvimento e uma rede social ao mesmo tempo, isso quer dizer que além de poder seguir pessoas, dar like em códigos e deixar comentários. Ele funciona como um editor de código online e ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar trechos de código, chamados de "canetas", e testá-los no mesmo que estão desenvolvendo.</li>
+    </ul>
+    <div align="center">
+        <img src = "../IHC/imagens/code.png">
+    </div>
+</details>
+
+<details>
+    <summary><b>1. Perceivable</b></summary>
+    <br>
+    <ul>
+        <li>O Twitter é uma rede social e um serviço de microblog, que permite aos usuários enviar e receber atualizações pessoais de outros contatos, por meio do website do serviços de troca de informações para receber na íntegra onde o usuario consegue perceber, de forma imediata, o que está sendo compreendido nas noticias e assuntos mais comentados do momento. Evidencia para o usuario as possíveis buscas que ele pode realizar em um determinado assunto ou perfil de outro usuario que quer encontrar.</li>
+    </ul>
+    <div align="center">
+        <img src= "../IHC/imagens/twitter.png">
+    </div>
+</details>
 
 ## Exemplos de erros ❌
 
