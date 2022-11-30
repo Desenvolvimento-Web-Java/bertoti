@@ -36,6 +36,25 @@
 
 </details>
 
+<details>
+  <sumary><b>3.2.3 Consistent Navigation</b></sumary>
+    <br>
+    O CodePen é um ambiente de desenvolvimento e uma rede social ao mesmo tempo, isso quer dizer que além de poder seguir pessoas, dar like em códigos e deixar comentários. Ele funciona como um editor de código online e ambiente de aprendizado de código aberto, onde os desenvolvedores podem criar trechos de código, chamados de "canetas", e testá-los no mesmo que estão desenvolvendo.
+  <div align="center">
+    <img src = "../IHC/imagens/code.png>
+  </div>
+</details>
+
+
+<details>
+  <sumary><b>1. Perceivable</b></sumary>
+    <br>
+    O Twitter é uma rede social e um serviço de microblog, que permite aos usuários enviar e receber atualizações pessoais de outros contatos, por meio do website do serviços de troca de informações para receber na íntegra onde o usuario consegue perceber, de forma imediata, o que está sendo compreendido nas noticias e assuntos mais comentados do momento. Evidencia para o usuario as possíveis buscas que ele pode realizar em um determinado assunto ou perfil de outro usuario que quer encontrar.
+  <div align="center">
+  <img src = "../IHC/imagens/twitter.png>
+  </div>
+</details>
+
 ---
 
 ## Exemplos de erros ❌
