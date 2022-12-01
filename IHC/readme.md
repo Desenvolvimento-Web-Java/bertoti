@@ -1,5 +1,12 @@
 # Heurísticas de Nielsen e WCAG
 
+> Prof. Giuliano Araujo Bertoti 
+>
+> Objetivo: 
+>  Apresentar conceitos fundamentais de usabilidade, acessibilidade, UX e etc, escolhendo 1 ou mais sites e fazer uma avaliação heurística com base no WCAG. E inserindo prints de erros e acertos, comentando abaixo a guideline avaliada e o que está certo ou errado.
+>
+> **Link do Site:** https://www.w3.org/WAI/WCAG21/quickref/
+
 ## Exemplos de acertos ✔️
 
 <details>
@@ -84,5 +91,43 @@
 > **Observações:** O site se mostra com muitas cores misturadas, não colaborando para uma harmonia visual do usuário; o texto é ilegível por conta do baixo contraste entre o background e a cor do texto, além de não utilizar uma fonte simples e de fácil legibilidade; elementos piscando e se mexendo em todos os cantos da tela, podendo apresentar riscos de convulsões e confusão mental em alguns usuários.
 
 </details>
+
+<details>
+   <summary><b>2.4.8 Location Level AAA</b></summary>
+    <br>
+
+<div align="center">
+    <img src = "../IHC/imagens/wcag.png">
+  </div>
+
+> **Observações:** O site, mesmo sendo de fundamental consulta para as heuristicas, mostra-se confuso para os usuarios em questão da localização onde se encontra essas informações. Dando o scrool na sidebar para buscas, o foco da tela principal automaticamete se movimenta junto e isso causa um desconforto e confusao onde o usuario precisa procurar novamente a heuristica que estava lendo.
+
+</details>
+
+<details>
+   <summary><b>1.4.8 Visual Presentation</b></summary>
+    <br>
+
+<div align="center">
+    <img src = "../IHC/imagens/shein.png">
+  </div>
+
+> **Observações:** O site de compras da Shein se tornou bastante conhecido nas suas diversas opções e variedades de roupas e estilos. O site apresenta de forma desnecessária diversas informações de uma vez na pagina home, tornando o primeiro contato do usuário. Alguns podem se assustar com a quantidade de coisas que mostram, despertanto desconforto e desconfiabilidade do usuario em achar que pode ser virus para seu computador.
+
+</details>
+
+<details>
+   <summary><b>1.4.3 Contrast (Minimum) Level AA</b></summary>
+    <br>
+
+<div align="center">
+    <img src = "../IHC/imagens/xpro.png">
+  </div>
+
+> **Observações:** O site apresenta as cores do fundo com a do texto numa faixa de contraste muito baixa, fazendo com que o usuário tenha dificuldade em ler o que está escrito e principalmente perdendo informações que podem ser importantes. Acrescentando o layout de defícil interpretação pois não possuem as dimensões corretas de resolução padrão de uma tela.
+
+</details>
+
+
 
 ---
